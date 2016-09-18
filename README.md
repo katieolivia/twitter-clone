@@ -3,6 +3,7 @@
 Twitter Clone
 =============
 
+
 ##Objective
 Use jQuery to create a "clone" that mimicks how the Twitter web application functions
 
